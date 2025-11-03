@@ -1,0 +1,15 @@
+[package]
+name = "buff_mod"
+version = "0.2.0"
+edition = "2024"
+
+[lib]
+name = "dinput8"
+crate-type = ["cdylib"]
+
+[features]
+Console = []
+
+[dependencies]
+dll-proxy = { git = "https://github.com/Nordgaren/dll-proxy.git" }
+memory_box = { git = "https://github.com/Dzavoy/MemoryBox.git" }
