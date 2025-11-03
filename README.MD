@@ -20,5 +20,5 @@ Rename the Mod DLL, drag and drop the renamed .dll file into your dllMods folder
 
 ## Libs Used
 
-dll-proxy: [GitHub Repository](https://github.com/Nordgaren/dll-proxy)
+dll-proxy: [GitHub Repository](https://github.com/Nordgaren/dll-proxy)  
 MemoryBox: [GitHub Repository](https://github.com/Dzavoy/MemoryBox)
