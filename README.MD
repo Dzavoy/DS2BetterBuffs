@@ -1,6 +1,7 @@
 # Dark Souls 2 Better Buffs Mod
 
-This mod removes the color of weapon buffs, keeping only their visual effects, resulting in a cleaner and improved appearance.
+This mod removes the color of weapon buffs, keeping only their visual effects,  
+resulting in a cleaner and improved appearance.
 
 ---
 
@@ -12,7 +13,7 @@ Works seamlessly on Windows and Linux if the game is running through Proton or W
 
 ## Installation Guide
 
-Download and install [Lazy Loader](https://github.com/was421/LazyLoader).
+Download and install [Lazy Loader](https://github.com/was421/LazyLoader).  
 Rename the Mod DLL, drag and drop the renamed .dll file into your dllMods folder.
 
 ---
