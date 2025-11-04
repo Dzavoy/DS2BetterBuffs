@@ -62,7 +62,7 @@ checksum = "f52b00d39961fc5b2736ea853c9cc86238e165017a493d1d5c8eac6bdc4cc273"
 [[package]]
 name = "memory_box"
 version = "0.2.0"
-source = "git+https://github.com/Dzavoy/MemoryBox.git#a72c3d010af14cc6132598817a2e9afd98bc266f"
+source = "git+https://github.com/Dzavoy/MemoryBox.git#896808567fef46a68c5ac2106959bfcee9ce3acb"
 dependencies = [
  "memchr",
  "windows-sys 0.61.2",
