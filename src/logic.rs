@@ -1,6 +1,6 @@
-use memory_box::mem_box::*;
+use memory_box::{ModuleContext, LocalPtr};
 
-pub const GAME_MANAGER_IMP: [Option<u8>; 17] = [
+const GAME_MANAGER_IMP: [Option<u8>; 17] = [
     Some(0x48),
     Some(0x8B),
     Some(0x05),
